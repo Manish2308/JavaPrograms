@@ -1,5 +1,5 @@
 /*
-Write a program to print to input a number and check whether the number is Prime or not.
+Write a Java program to print to input a number and check whether the number is Prime or not.
 */
 
 import java.util.Scanner;
