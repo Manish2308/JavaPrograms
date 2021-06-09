@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class TestToCalculatePower {
+public class calculatePower {
 
 	public static void main(String[] args) {
 		
